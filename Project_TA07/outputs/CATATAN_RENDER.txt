@@ -1,0 +1,1 @@
+Render dashboard dan grafik dibuat dari simulasi parameter sintetis untuk keperluan visualisasi laporan. Jalankan ulang main.py untuk menghasilkan grafik dari kode sumber.
